@@ -7,7 +7,7 @@ This project aims to uncover the underlying patterns and trends that link demogr
 
 
 ## Project Contributors
-* [Kendrick Hsu](https://github.com/kduncanhsu).
+* [Kendrick Hsu (Duncan)](https://github.com/kduncanhsu).
 * [Naveen Mirapuri](https://github.com/NaveenM12).
 * [John Guirguis](https://github.com/NaveenM12).
 
